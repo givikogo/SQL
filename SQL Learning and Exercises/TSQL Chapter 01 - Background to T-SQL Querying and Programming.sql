@@ -99,3 +99,5 @@ A DEFAULT constraint is associated with a specific attribute. The expression is 
   */
 
   DROP TABLE dbo.Orders, dbo.Employees;
+  
+  
